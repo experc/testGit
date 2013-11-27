@@ -2,6 +2,3 @@
 1.Learn Git 
 2. Something else
 3. Learn how to commit
-4. learn about branches
-5. Learn about orphan branches
-6. Learn about showing info about Git info in your command prompt.
