@@ -1,3 +1,4 @@
 1.Learn Git 
 2. Something else
 2. Learn how to commit
+3. learn about branches
